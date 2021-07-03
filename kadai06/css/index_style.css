@@ -1,0 +1,37 @@
+/* ここから下に記載していく */
+@charset "utf-8";
+
+.jumbotron{
+  margin: auto;
+  text-align: center;
+}
+label{
+  display: flex;
+}
+dl{
+  width: 60%;
+  margin: auto;
+}
+dt{
+  width: 20%;
+  text-align-last: left;
+}
+dd{
+  width: 80%;
+  text-align-last: left;
+}
+.store_item input{
+  width: 100%;
+}
+.industry_item select{
+  width: 50%;
+}
+.pref_item select{
+  width: 50%;
+}
+.tel_item input{
+  width: 50%;
+}
+.naiyou_item textarea{
+  width: 100%;
+}
